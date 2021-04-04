@@ -10,7 +10,7 @@ const app = express()
 const http = require('http').Server(app);
 let cors = require('cors')
 app.use(cors())
-app.get('/', function (request, response) {
+app.get('/', function (request:any, response:any) {
     response.end('Hello from Express!')
 })
 
