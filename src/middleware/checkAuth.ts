@@ -25,8 +25,6 @@ export default (
     // @ts-ignore
     AuthJWT(token).then((user:any) => {
         // @ts-ignore
-        console.log(22)
-        // @ts-ignore
         req.user = user.data._doc
         next()
     }).catch(() => {
