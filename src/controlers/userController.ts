@@ -4,7 +4,7 @@ import CreateJWT from "../utils/CreateJWT";
 import socket from "socket.io"
 import {validationResult} from "express-validator";
 import has = Reflect.has;
-import bcrypt from 'bcrypt'
+import bcrypt from 'bcryptjs'
 class UserController {
 
     io: socket.Server;

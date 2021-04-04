@@ -1,7 +1,5 @@
 # Default ignored files
 .env
-node_modules
 .idea
-yarn-error.log
 # Editor-based HTTP Client requests
 /httpRequests/
