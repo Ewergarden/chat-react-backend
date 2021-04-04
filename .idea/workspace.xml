@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a31945b-de77-4e25-a817-abbef99d36dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1obyjWe8H0IJqF4eKxu6O5rLNJh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chat-frontend" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="ts.external.directory.path" value="C:\Users\HP\Desktop\Pojekt\chat-backend\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\Pojekt\chat-backend" />
+      <recent name="C:\Users\HP\Desktop\Pojekt\chat-backend\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\Pojekt\chat-backend\src\controlers" />
+      <recent name="C:\Users\HP\Desktop\Pojekt\chat-backend\src\models" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a31945b-de77-4e25-a817-abbef99d36dd" name="Default Changelist" comment="" />
+      <created>1613569729962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613569729962</updated>
+      <workItem from="1613569732520" duration="7668000" />
+      <workItem from="1613582772207" duration="1067000" />
+      <workItem from="1613628110490" duration="9833000" />
+      <workItem from="1613716827921" duration="7814000" />
+      <workItem from="1613739994785" duration="6147000" />
+      <workItem from="1613760223155" duration="3923000" />
+      <workItem from="1613801511692" duration="6078000" />
+      <workItem from="1613822953052" duration="8022000" />
+      <workItem from="1613843718238" duration="42000" />
+      <workItem from="1613888172135" duration="2104000" />
+      <workItem from="1613890791747" duration="4447000" />
+      <workItem from="1613906583643" duration="44569000" />
+      <workItem from="1614176368354" duration="3678000" />
+      <workItem from="1614188416707" duration="6100000" />
+      <workItem from="1614254682237" duration="48000" />
+      <workItem from="1614281539532" duration="1359000" />
+      <workItem from="1614283152803" duration="10178000" />
+      <workItem from="1614360958910" duration="3706000" />
+      <workItem from="1614715367930" duration="5164000" />
+      <workItem from="1614780838520" duration="4540000" />
+      <workItem from="1615043272975" duration="326000" />
+      <workItem from="1615057685215" duration="2900000" />
+      <workItem from="1615102032759" duration="7416000" />
+      <workItem from="1615133294065" duration="8411000" />
+      <workItem from="1615230337460" duration="6286000" />
+      <workItem from="1615316552029" duration="383000" />
+      <workItem from="1615316948724" duration="2732000" />
+      <workItem from="1615355157094" duration="6110000" />
+      <workItem from="1615401369649" duration="230000" />
+      <workItem from="1615443301605" duration="545000" />
+      <workItem from="1615458203185" duration="4148000" />
+      <workItem from="1615614865420" duration="618000" />
+      <workItem from="1615665237986" duration="8927000" />
+      <workItem from="1615920031572" duration="2462000" />
+      <workItem from="1615992099830" duration="3896000" />
+      <workItem from="1616169254689" duration="4672000" />
+      <workItem from="1616267787462" duration="775000" />
+      <workItem from="1616334141785" duration="47000" />
+      <workItem from="1616430063823" duration="12428000" />
+      <workItem from="1616699853325" duration="691000" />
+      <workItem from="1616752604060" duration="6285000" />
+      <workItem from="1616782304573" duration="11030000" />
+      <workItem from="1616827066443" duration="5256000" />
+      <workItem from="1616833207425" duration="319000" />
+      <workItem from="1616833541624" duration="804000" />
+      <workItem from="1616961501604" duration="606000" />
+      <workItem from="1617083966450" duration="5169000" />
+      <workItem from="1617214722002" duration="2400000" />
+      <workItem from="1617286680351" duration="252000" />
+      <workItem from="1617297780931" duration="3621000" />
+      <workItem from="1617425475220" duration="8168000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Deployment" timestamp="1614003789545">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1614003789545" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614090536248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1614090536248" />
+    <state x="926" y="217" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613831646777">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="926" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1613831646777" />
+    <state x="883" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613908797218">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="883" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1613908797218" />
+    <state x="798" y="285" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1613982303831">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="798" y="285" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1613982303831" />
+    <state x="933" y="167" key="FileChooserDialogImpl" timestamp="1617461284819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="933" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1617461284819" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1614004806058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1614004806058" />
+    <state x="966" y="0" width="546" height="587" key="dock-window-1" timestamp="1614014968760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="966" y="0" width="546" height="587" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1614014968760" />
+    <state x="713" y="202" width="546" height="450" key="dock-window-2" timestamp="1614014968760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="713" y="202" width="546" height="450" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1614014968760" />
+    <state x="817" y="30" width="546" height="587" key="dock-window-3" timestamp="1614014968760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="817" y="30" width="546" height="587" key="dock-window-3/0.0.1536.824@0.0.1536.824" timestamp="1614014968760" />
+    <state x="678" y="412" width="738" height="374" key="dock-window-4" timestamp="1614015211752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="678" y="412" width="738" height="374" key="dock-window-4/0.0.1536.824@0.0.1536.824" timestamp="1614015211752" />
+    <state x="790" y="278" width="738" height="774" key="dock-window-5" timestamp="1614015211752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="790" y="278" width="738" height="774" key="dock-window-5/0.0.1536.824@0.0.1536.824" timestamp="1614015211752" />
+    <state x="812" y="0" width="738" height="774" key="dock-window-6" timestamp="1614015211752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="812" y="0" width="738" height="774" key="dock-window-6/0.0.1536.824@0.0.1536.824" timestamp="1614015211752" />
+    <state x="812" y="0" width="738" height="578" key="dock-window-7" timestamp="1614015211752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="812" y="0" width="738" height="578" key="dock-window-7/0.0.1536.824@0.0.1536.824" timestamp="1614015211752" />
+    <state x="-364" y="434" width="738" height="578" key="dock-window-8" timestamp="1614015211752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-364" y="434" width="738" height="578" key="dock-window-8/0.0.1536.824@0.0.1536.824" timestamp="1614015211752" />
+    <state x="862" y="116" width="579" height="592" key="find.popup" timestamp="1616833518301">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="862" y="116" width="579" height="592" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1616833518301" />
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1617515513727">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1617515513727" />
+  </component>
+</project>
