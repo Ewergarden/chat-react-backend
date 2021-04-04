@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a31945b-de77-4e25-a817-abbef99d36dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/middleware/checkAuth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/middleware/checkAuth.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +130,7 @@
       <workItem from="1617286680351" duration="252000" />
       <workItem from="1617297780931" duration="3621000" />
       <workItem from="1617425475220" duration="11123000" />
-      <workItem from="1617521379383" duration="5130000" />
+      <workItem from="1617521379383" duration="5508000" />
     </task>
     <servers />
   </component>
