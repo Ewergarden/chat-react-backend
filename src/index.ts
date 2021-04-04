@@ -19,7 +19,7 @@ app.get('/', function (request:any, response:any) {
 dotenv.config();
 
 
-mongoose.connect('mongodb://localhost:27017/chat', {useNewUrlParser: true, useUnifiedTopology: true,useCreateIndex: true});
+mongoose.connect(process.env.MONGODB_URL || 'mongodb://localhost:27017/chat', {useNewUrlParser: true, useUnifiedTopology: true,useCreateIndex: true});
 
 
 const io = createSocket(http);
